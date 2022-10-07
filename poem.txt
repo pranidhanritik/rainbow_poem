@@ -5,6 +5,6 @@ Indigo
 Blue
 Green
 Yellow
-Orang
+Orange
 Red
 These are the color of my rainbow
