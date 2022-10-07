@@ -4,7 +4,7 @@ Voilet
 Indigo
 Blue
 Green
-Yello
+Yellow
 Orang
 R
 These are the color of my rainbow
