@@ -6,5 +6,5 @@ Blue
 Green
 Yellow
 Orang
-R
+Red
 These are the color of my rainbow
